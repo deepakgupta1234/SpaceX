@@ -4,7 +4,7 @@
     
     <div class="row">
       <div class="col-sm-12">
-        <a href="" class="btn btn-dark pull-right"><i class="fa fa-refresh"></i> Refresh</a>
+        <a href="{{url('get10launch')}}" class="btn btn-dark pull-right"><i class="fa fa-refresh"></i>  Top 10 Launch</a>
       </div>
     </div>
     <div class="row">

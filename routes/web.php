@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::get('get10launch','HomeController@index');
+Route::get('launches','HomeController@launches');
